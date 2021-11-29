@@ -3,10 +3,6 @@ body {
     background-color: azure;
 }
 
-h1 {
-    outline: 2px solid white;
-}
-
 .topnav {
     background-color: azure;
     overflow: hidden;
