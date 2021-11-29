@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-
+    outline: 2px solid white;
 }
 
 .topnav {
@@ -15,12 +15,11 @@ h1 {
 .topnav a {
     float: left;
     display: block;
-    border-radius: 20px;
     color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 25px;
 }
 
 .topnav a:hover {
